@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my homelab & total automation of it<br>🌱 I’m currently learning about all the ways to automate anything
+🔭 I’m currently working on my homelab & total automation of it<br>🌱 I’m currently learning about all the ways to automate everything
 
 
 ## 🌐 Socials:
